@@ -1,7 +1,7 @@
 
 # ChatSphere
 
-![Fully Secure Chat](https://www.nimbleappgenie.com/images/chatboot-banner-bottom-img.gif)
+![Fully Secure Chat](https://img.freepik.com/premium-vector/chatbot-icon-design-bot-say-hi-through-laptop-screen-vector-icon_418020-487.jpg)
 
 ## Overview
 
