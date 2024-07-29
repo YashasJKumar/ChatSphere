@@ -2,7 +2,7 @@
 # ChatSphere
 
 <div>
-   <img src="https://img.freepik.com/premium-vector/chatbot-icon-design-bot-say-hi-through-laptop-screen-vector-icon_418020-487.jpg" width=100% />
+   <img src="https://img.freepik.com/premium-vector/chatbot-icon-design-bot-say-hi-through-laptop-screen-vector-icon_418020-487.jpg" width=100% height=50%/>
 </div>
 
 ## Overview
