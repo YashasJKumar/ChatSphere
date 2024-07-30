@@ -2,7 +2,7 @@
 # ChatSphere
 
 <div>
-   <img src="https://img.freepik.com/premium-vector/chatbot-icon-design-bot-say-hi-through-laptop-screen-vector-icon_418020-487.jpg" width=100% height=50%/>
+   <img src="https://img.freepik.com/premium-vector/chatbot-icon-design-bot-say-hi-through-laptop-screen-vector-icon_418020-487.jpg" width=100% height=200px/>
 </div>
 
 ## Overview
@@ -65,6 +65,10 @@ Ensure you have the following installed on your system:
 
 - Type your queries into the input box at the bottom of the interface.
 - The AI Assistant will provide responses based on the selected model.
+
+### ScreenShot
+
+<img width="1470" alt="ScreenShot" src="https://github.com/user-attachments/assets/457624e9-c0e6-423e-96ed-f58fa583ad40">
 
 ## Contributing
 
