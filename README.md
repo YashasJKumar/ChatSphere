@@ -68,7 +68,7 @@ Ensure you have the following installed on your system:
 
 ### ScreenShot
 
-<img width="1470" alt="ScreenShot" src="https://github.com/user-attachments/assets/457624e9-c0e6-423e-96ed-f58fa583ad40">
+<img width="1468" alt="ScreenShot" src="https://github.com/user-attachments/assets/7ebf7f61-d3e3-4ab2-b09a-ae69c7e8242b">
 
 ## Contributing
 
